@@ -1,0 +1,12 @@
+intall fswebcam package
+  open a terminal and enter at the command line:
+
+  $ sudo apt-get install fswebcam
+
+Once the package is installed, you can take a simple image by launching the command
+
+  $ fswebcam image.jpg
+
+
+Other Optional Setup Commands
+https://www.meccanismocomplesso.org/en/how-to-use-a-generic-usb-webcam-on-raspberry-pi/
